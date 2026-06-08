@@ -15,7 +15,7 @@ const HospitalHighlights = () => {
           {/* Card 1 - 24/7 Emergency */}
           <div className="fade-in relative group overflow-hidden rounded-xl shadow-lg hover:shadow-2xl transition duration-300" style={{ animationDelay: '0.3s' }}>
             <img
-              src="https://plus.unsplash.com/premium_photo-1664304339622-ccb9031b7373?q=80&w=1039&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://images.unsplash.com/photo-1587745414936-720c40da9d69?w=600&h=400&fit=crop"
               alt="Emergency Care"
               className="w-full h-64 object-cover group-hover:scale-110 transition duration-500"
             />

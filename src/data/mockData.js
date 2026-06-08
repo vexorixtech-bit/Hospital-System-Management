@@ -31,28 +31,28 @@ export const doctors = [
     name: 'Dr. Sarah Johnson',
     specialization: 'Cardiologist',
     experience: '15 years',
-    image: 'https://plus.unsplash.com/premium_photo-1661740540766-bcdf999f963a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D'
+    image: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&h=400&fit=crop&crop=face'
   },
   {
     id: 2,
     name: 'Dr. Michael Chen',
     specialization: 'Neurologist',
     experience: '12 years',
-    image: 'https://plus.unsplash.com/premium_photo-1661596987649-15ef3388e6a0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D'
+    image: 'https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=400&h=400&fit=crop&crop=face'
   },
   {
     id: 3,
     name: 'Dr. Emily Rodriguez',
     specialization: 'Pediatrician',
     experience: '10 years',
-    image: 'https://plus.unsplash.com/premium_photo-1658506671316-0b293df7c72b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvc3BpdGFsfGVufDB8fDB8fHww'
+    image: 'https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=400&h=400&fit=crop&crop=face'
   },
   {
     id: 4,
     name: 'Dr. James Wilson',
     specialization: 'Orthopedic Surgeon',
     experience: '18 years',
-    image: 'https://plus.unsplash.com/premium_photo-1681996486893-a48ea4667cb5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+    image: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=400&h=400&fit=crop&crop=face'
   }
 ];
 
