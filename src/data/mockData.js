@@ -45,7 +45,7 @@ export const doctors = [
     name: 'Dr. Emily Rodriguez',
     specialization: 'Pediatrician',
     experience: '10 years',
-    image: 'https://plus.unsplash.com/premium_photo-1661301058041-a167cd603048?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHx8'
+    image: 'https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=400&h=400&fit=crop&crop=face'
   },
   {
     id: 4,
