@@ -2,10 +2,10 @@ import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
 const heroImages = [
-  'https://images.unsplash.com/photo-1512678080530-7760d81faba6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG9zcGl0YWx8ZW58MHx8MHx8fDA%3D',
-  'https://images.unsplash.com/photo-1504813184591-01572f98c85f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvc3BpdGFsfGVufDB8fDB8fHww',
-  'https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aG9zcGl0YWx8ZW58MHx8MHx8fDA%3D',
-  'https://www.istockphoto.com/photo/busy-hospital-hallway-filled-with-medical-experts-in-white-coats-and-blue-uniforms-gm2191184079-609517939?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fhospital&utm_term=hospital%3A%3A%3A%3A95829d60-21c5-422d-98ec-294a00351eec'
+  'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1920&q=80',
+  'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=1920&q=80',
+  'https://images.unsplash.com/photo-1551076805-e1869033e561?w=1920&q=80',
+  'https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=1920&q=80'
 ];
 
 const Hero = () => {
