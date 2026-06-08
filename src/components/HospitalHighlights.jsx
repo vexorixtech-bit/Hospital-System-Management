@@ -15,7 +15,7 @@ const HospitalHighlights = () => {
           {/* Card 1 - 24/7 Emergency */}
           <div className="fade-in relative group overflow-hidden rounded-xl shadow-lg hover:shadow-2xl transition duration-300" style={{ animationDelay: '0.3s' }}>
             <img
-              src="https://images.unsplash.com/photo-1587745414936-720c40da9d69?w=600&h=400&fit=crop"
+              src="https://images.unsplash.com/photo-1551076805-e1869033e561?w=600"
               alt="Emergency Care"
               className="w-full h-64 object-cover group-hover:scale-110 transition duration-500"
             />
@@ -32,7 +32,7 @@ const HospitalHighlights = () => {
           {/* Card 2 - Expert Doctors */}
           <div className="fade-in relative group overflow-hidden rounded-xl shadow-lg hover:shadow-2xl transition duration-300" style={{ animationDelay: '0.4s' }}>
             <img
-              src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=600&h=400&fit=crop"
+              src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600"
               alt="Expert Doctors"
               className="w-full h-64 object-cover group-hover:scale-110 transition duration-500"
             />
@@ -49,7 +49,7 @@ const HospitalHighlights = () => {
           {/* Card 3 - Modern Facilities */}
           <div className="fade-in relative group overflow-hidden rounded-xl shadow-lg hover:shadow-2xl transition duration-300" style={{ animationDelay: '0.5s' }}>
             <img
-              src="https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=600&h=400&fit=crop"
+              src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=600"
               alt="Modern Facilities"
               className="w-full h-64 object-cover group-hover:scale-110 transition duration-500"
             />

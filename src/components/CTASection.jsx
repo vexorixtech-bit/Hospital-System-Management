@@ -5,7 +5,7 @@ const CTASection = () => {
     <section className="relative py-20">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=1920&h=600&fit=crop"
+          src="https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=1920"
           alt="Hospital Background"
           className="w-full h-full object-cover"
         />

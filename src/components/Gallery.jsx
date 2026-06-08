@@ -1,32 +1,32 @@
 const galleryImages = [
   {
     id: 1,
-    src: 'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=600',
     alt: 'Modern Hospital Reception'
   },
   {
     id: 2,
-    src: 'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=600',
     alt: 'Operating Room'
   },
   {
     id: 3,
-    src: 'https://images.unsplash.com/photo-1551076805-e1869033e561?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1551076805-e1869033e561?w=600',
     alt: 'Doctor Consulting Patient'
   },
   {
     id: 4,
-    src: 'https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=600',
     alt: 'Medical Equipment'
   },
   {
     id: 5,
-    src: 'https://images.unsplash.com/photo-1516549655169-df83a0774514?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1516549655169-df83a0774514?w=600',
     alt: 'Patient Room'
   },
   {
     id: 6,
-    src: 'https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=600',
     alt: 'Pharmacy'
   }
 ];

@@ -10,7 +10,7 @@ const AboutPage = () => {
         <div className="relative bg-blue-600 text-white py-20">
           <div className="absolute inset-0 overflow-hidden">
             <img
-              src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1920&h=600&fit=crop"
+              src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1920"
               alt="Hospital Building"
               className="w-full h-full object-cover opacity-20 hover:opacity-30 transition duration-500"
             />
@@ -30,7 +30,7 @@ const AboutPage = () => {
           <div className="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-2 gap-12">
             <div className="fade-in relative overflow-hidden rounded-xl">
               <img
-                src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=600&h=400&fit=crop"
+                src="https://images.unsplash.com/photo-1551076805-e1869033e561?w=600"
                 alt="Medical Equipment"
                 className="w-full h-48 object-cover rounded-xl mb-6 hover:scale-105 transition duration-500"
               />
@@ -41,7 +41,7 @@ const AboutPage = () => {
             </div>
             <div className="fade-in" style={{ animationDelay: '0.2s' }}>
               <img
-                src="https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=600&h=400&fit=crop"
+                src="https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=600"
                 alt="Operating Room"
                 className="w-full h-48 object-cover rounded-xl mb-6 hover:scale-105 transition duration-500"
               />
