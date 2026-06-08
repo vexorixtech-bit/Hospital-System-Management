@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
 const heroImages = [
-  'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1920&h=1080&fit=crop',
+  'https://unsplash.com/photos/dextrose-hanging-on-stainless-steel-iv-stand-6pcGTJDuf6M',
   'https://unsplash.com/photos/group-of-doctors-walking-in-corridor-on-medical-conference-talking-ZgLTbwiRYv4',
   'https://unsplash.com/photos/white-and-black-hospital-bed-vsSu0oGtLoI',
   'https://www.istockphoto.com/photo/busy-hospital-hallway-filled-with-medical-experts-in-white-coats-and-blue-uniforms-gm2191184079-609517939?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fhospital&utm_term=hospital%3A%3A%3A%3A95829d60-21c5-422d-98ec-294a00351eec'
