@@ -6,27 +6,27 @@ const galleryImages = [
   },
   {
     id: 2,
-    src: 'https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=600&h=400&fit=crop',
     alt: 'Operating Room'
   },
   {
     id: 3,
-    src: 'https://images.unsplash.com/photo-1631217868264-e70a0c5d7b49?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1551076805-e1869033e561?w=600&h=400&fit=crop',
     alt: 'Doctor Consulting Patient'
   },
   {
     id: 4,
-    src: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=600&h=400&fit=crop',
     alt: 'Medical Equipment'
   },
   {
     id: 5,
-    src: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1516549655169-df83a0774514?w=600&h=400&fit=crop',
     alt: 'Patient Room'
   },
   {
     id: 6,
-    src: 'https://images.unsplash.com/photo-1584982751601-97dcc096659c?w=600&h=400&fit=crop',
+    src: 'https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=600&h=400&fit=crop',
     alt: 'Pharmacy'
   }
 ];
