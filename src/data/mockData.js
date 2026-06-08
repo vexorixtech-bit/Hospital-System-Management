@@ -31,7 +31,7 @@ export const doctors = [
     name: 'Dr. Sarah Johnson',
     specialization: 'Cardiologist',
     experience: '15 years',
-    image: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&h=400&fit=crop'
+    image: 'https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=400&h=400&fit=crop'
   },
   {
     id: 2,
