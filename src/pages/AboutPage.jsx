@@ -17,7 +17,7 @@ const AboutPage = () => {
           </div>
           <div className="relative max-w-7xl mx-auto px-4 text-center">
             <h1 className="text-4xl md:text-5xl font-bold mb-4 fade-in">
-              About TCR Hospital
+              About Krishna Hospital
             </h1>
             <p className="text-xl text-blue-100 max-w-3xl mx-auto fade-in" style={{ animationDelay: '0.2s' }}>
               Delivering compassionate, world-class healthcare since 2005
@@ -57,7 +57,7 @@ const AboutPage = () => {
         <section className="py-16 bg-gray-50">
           <div className="max-w-7xl mx-auto px-4">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 text-center mb-12 fade-in">
-              Why Choose TCR Hospital?
+              Why Choose Krishna Hospital?
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               {[

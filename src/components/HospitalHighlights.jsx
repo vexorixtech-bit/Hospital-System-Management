@@ -4,7 +4,7 @@ const HospitalHighlights = () => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="fade-in text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-            Why Choose TCR Hospital?
+            Why Choose Krishna Hospital?
           </h2>
           <p className="fade-in text-gray-600 max-w-2xl mx-auto" style={{ animationDelay: '0.2s' }}>
             Excellence in healthcare with a personal touch

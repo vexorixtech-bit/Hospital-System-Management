@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-2xl font-bold text-blue-400 mb-4">
-              TCR Hospital
+              Krishna Hospital
             </h3>
             <p className="text-gray-400 mb-4">
               Providing trusted medical care with compassion and expertise.
@@ -86,7 +86,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} TCR Hospital. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Krishna Hospital. All rights reserved.</p>
         </div>
       </div>
     </footer>
