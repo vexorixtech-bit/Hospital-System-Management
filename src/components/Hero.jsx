@@ -3,8 +3,9 @@ import { Link } from 'react-router-dom';
 
 const heroImages = [
   'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1920&q=80',
-  'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=1920&q=80',
-  'https://images.unsplash.com/photo-1551076805-e1869033e561?w=1920&q=80',
+  'https://images.unsplash.com/photo-1628372095387-017d1099fc19?w=1920&q=80',
+  'https://images.unsplash.com/photo-1640876777002-badf6aee5bcc?w=1920&q=80',
+  'https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?w=1920&q=80',
   'https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=1920&q=80'
 ];
 
